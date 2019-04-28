@@ -1,3 +1,13 @@
 add first file for committing code.
 
+<<<<<<< HEAD
 TDA-179 squash test.
+=======
+TDA-179 squash test.
+
+first
+
+second
+
+third
+>>>>>>> TDA-179
